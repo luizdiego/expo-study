@@ -1,5 +1,6 @@
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
+import {NewForm} from './src/components/NewForm';
 
 export default function App() {
   return (
